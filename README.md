@@ -1,2 +1,105 @@
 # Qpnapolistella
 Sito ufficiale Quiposte Napoli Stella
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Quiposte Napoli Stella</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; line-height: 1.6; }
+    header { background: #0b3c5d; color: #fff; padding: 20px; text-align: center; }
+    section { padding: 20px; }
+    h2 { color: #0b3c5d; }
+    .box { margin-bottom: 20px; }
+    footer { background: #f4f4f4; padding: 20px; text-align: center; }
+    a.button {
+      display: inline-block;
+      padding: 10px 15px;
+      background: #25D366;
+      color: #fff;
+      text-decoration: none;
+      border-radius: 5px;
+      margin: 5px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Quiposte Napoli Stella</h1>
+  <p>Servizi postali, spedizioni e consulenze</p>
+</header>
+
+<section>
+  <h2>I nostri servizi</h2>
+
+  <div class="box">
+    <h3>📦 Spedizioni</h3>
+    <ul>
+      <li>Spedizione pacchi nazionali e internazionali</li>
+      <li>Raccomandate con ricevuta di ritorno</li>
+      <li>Posta prioritaria</li>
+      <li>Ritiro e consegna a domicilio</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>💶 Pagamenti</h3>
+    <ul>
+      <li>Bollettini, PagoPA e F24</li>
+      <li>Ricariche telefoniche</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>🆔 Servizi digitali</h3>
+    <ul>
+      <li>Attivazione e gestione SPID</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>⚖️ Consulenze</h3>
+    <ul>
+      <li>Legali</li>
+      <li>Finanziarie (mutui, prestiti, finanziamenti)</li>
+      <li>Assicurative (auto e altri veicoli)</li>
+    </ul>
+  </div>
+
+  <div class="box">
+    <h3>🤝 Vantaggi</h3>
+    <ul>
+      <li>Costi bassi e tariffe convenienti</li>
+      <li>Assistenza clienti sempre disponibile</li>
+    </ul>
+  </div>
+</section>
+
+<section>
+  <h2>Chi siamo</h2>
+  <p>
+    Siamo un'agenzia postale nata dall'idea imprenditoriale di garantire al territorio
+    un servizio qualitativo ed economicamente efficiente, assicurando la massima
+    trasparenza ai nostri clienti.
+  </p>
+</section>
+
+<section>
+  <h2>Contatti</h2>
+  <p>📍 Supportico Lopez 5a, Napoli</p>
+  <p>📞 08118109985</p>
+  <p>✉️ napolistella@quiposte.com</p>
+  <p>🕒 Lun-Ven 8.30-13.30 / 15.30-19.00 – Sab 8.30-13.00</p>
+
+  <a class="button" href="https://wa.me/3908118109985">WhatsApp</a>
+  <a class="button" href="mailto:napolistella@quiposte.com">Email</a>
+</section>
+
+<footer>
+  <p>© Quiposte Napoli Stella</p>
+</footer>
+
+</body>
+</html>
